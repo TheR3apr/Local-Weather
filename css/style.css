@@ -1,0 +1,28 @@
+.customFont {
+  margin-top: 30px;
+  font-weight: bold;
+  color: #663300;
+  font-family: old;
+  color: #663300;
+  font-family: 'Great Vibes', cursive;
+}
+h1 {
+  font-size: 600%;
+}
+h6 {
+  font-size: 200%;
+}
+#temp{
+  display:inline;
+  float:center;
+}
+#btn1{
+  display:inline;
+}
+span{
+  display: table;
+  margin: auto;
+}
+footer{
+ margin-top: 25%;
+}
